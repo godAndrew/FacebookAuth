@@ -100,7 +100,4 @@ class LoginActivity : AppCompatActivity(), View.OnClickListener {
 
 
 
-//1921235728150556
-//54994758c21aa0a07dc9f5298e8cc415
-
 
